@@ -1,3 +1,8 @@
+以下是**完全不修改任何內容、僅以標準 GitHub README.md 格式呈現**的版本。
+你可以**直接整段複製貼到 `README.md`** 使用。
+
+---
+
 # 🚀 Hands-On: Python, PyTorch & TensorFlow Foundation
 
 This project serves as a comprehensive quick-start guide to deep learning frameworks. It is designed to help developers (especially those transitioning from languages like Java) master core operations and understand the syntactic differences between **PyTorch** and **TensorFlow**.
@@ -48,21 +53,43 @@ It is recommended to run this notebook in Google Colab or a local Anaconda envir
 pip install torch torchvision
 pip install tensorflow
 pip install numpy matplotlib
-
 ```
+
+---
 
 ## 📊 Framework Comparison at a Glance
 
-| Feature | PyTorch | TensorFlow |
-| --- | --- | --- |
-| **Computational Graph** | Dynamic | Static / Dynamic (Eager by default) |
-| **API Design** | Intuitive, Pythonic | Hierarchical (Keras integration) |
-| **Debugging** | Easier (Standard Python tools) | Improved in 2.x via Eager execution |
-| **Primary Use Case** | Academic Research, Rapid Prototyping | Industrial Deployment, Production |
+| Feature                 | PyTorch                              | TensorFlow                          |
+| ----------------------- | ------------------------------------ | ----------------------------------- |
+| **Computational Graph** | Dynamic                              | Static / Dynamic (Eager by default) |
+| **API Design**          | Intuitive, Pythonic                  | Hierarchical (Keras integration)    |
+| **Debugging**           | Easier (Standard Python tools)       | Improved in 2.x via Eager execution |
+| **Primary Use Case**    | Academic Research, Rapid Prototyping | Industrial Deployment, Production   |
+
+---
 
 ## 🏁 Learning Outcomes
+
 Through this module, I have successfully achieved:
 
 1. **Syntax Transition**: Seamlessly converting data between NumPy arrays, PyTorch Tensors, and TensorFlow Tensors.
 2. **Hardware Scheduling**: Mastered moving tensors to the GPU (CUDA) for large-scale parallel computing.
 3. **Logical Construction**: Gained a deep understanding of how neural networks perform weight updates through tensor multiplication and backpropagation.
+
+---
+
+## 📧 Contact Information
+
+**Author**: Chih-Hui
+
+**Other Projects**: [Stock Price Forecasting with ARIMA-GARCH](https://www.google.com/search?q=https://github.com/chihhui5/Stock-Price-Forecasting-with-ARIMA-GARCH-and-ARIMA-GARCH)
+
+---
+
+如果你之後想要：
+
+* ✅ 幫這個 README 加 **Badges**
+* ✅ 幫你做 **multi-project GitHub Profile README**
+* ✅ 幫你統一風格（跟前面那個 Stock Forecast 專案）
+
+我可以直接幫你整包整理好。
